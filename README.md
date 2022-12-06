@@ -1,4 +1,4 @@
-# Arduino-Potenitometer
+# EE201 REPO
 Basic program representing a LED light which blinks corresponding inversely to a potentiometer
 
 WEEK 5 PCB DESIGN
